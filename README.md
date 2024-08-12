@@ -20,33 +20,16 @@
 - [Email](rhabibp@gmail.com)
 # ✨ Welcome to My Digital Garden 🌱
 
-![Header Image](https://your-image-url-here.com/header.png)
+# 🌟 Welcome to My Coding Universe 🚀
 
-## About Me
+<div align="center">
+  <img src="https://your-header-image-url.com" alt="Header Image" width="100%">
+</div>
 
-Explorer of code | Dreamer of pixels | Architect of ideas
+## 👨‍💻 About Me
 
-def life_philosophy():
-    return "Create. Learn. Grow. Repeat."
+Passionate developer | Creative problem solver | Continuous learner
 
-## My Toolkit
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
-
-## Current Ventures
-
-- 🚀 Building [Project Name]
-- 📚 Learning [New Skill]
-- 🌍 Contributing to [Open Source Project]
-
-## Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/yourusername)
-
----
-
-> "Your favorite quote here" - Author
+```python
+def my_philosophy():
+    return "Code with purpose, debug with patience, deploy with confidence."
