@@ -1,7 +1,7 @@
 # Hi there 👋, I'm [Habibur Rahman]!
 
 ![Profile views](https://komarev.com/ghpvc/?username=rhabibp&color=brightgreen)
-![GitHub followers](https://img.shields.io/github/followers/rahabibp?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/rhabibp?label=Follow&style=social)
 
 ---
 
