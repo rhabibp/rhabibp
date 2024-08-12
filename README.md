@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋, I'm Habibur Rahman
 
-<!--
-**rhabibp/rhabibp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🔭 I’m currently working on: [Your Current Project]
+- 🌱 I’m learning: [Technologies or Concepts You’re Learning]
+- 👯 I’m looking to collaborate on: [Projects or Areas of Interest]
+- 💬 Ask me about: [Your Expertise or Interests]
+- 📫 How to reach me: [Email, LinkedIn, Twitter, etc.]
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Languages**: [Kotlin, Java, etc.]
+- **Frameworks & Libraries**: [Jetpack Compose, Retrofit, etc.]
+- **Tools**: [Android Studio, Git, etc.]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rhabibp&show_icons=true&theme=radical)
+
+### 🔗 Connect with Me
+
+- [Email](rhabibp@gmail.com)
