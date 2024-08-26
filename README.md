@@ -6,12 +6,10 @@
 ---
 
 ### 🚀 About Me
-🔭 **Current Project:** Building sleek Android apps with Jetpack Compose  
-🌱 **Learning:** Advanced Android development techniques and Kotlin coroutines  
+🔭 **Current Project:** Building Official Management Android apps with Jetpack Compose and Kotlin  
 👯 **Looking to collaborate on:** Open-source Android libraries  
 💬 **Ask me about:** Android, Kotlin, Jetpack Compose  
 📫 **How to reach me:** [Email](mailto:rhabibp@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rhabibp)  
-⚡ **Fun fact:** I’m a coffee enthusiast who loves to code with a strong brew!
 ### 🛠 Primary Language
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
